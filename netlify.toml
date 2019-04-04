@@ -1,0 +1,3 @@
+[build]
+  publish = "dist/starter"
+  command = "npm run build"
